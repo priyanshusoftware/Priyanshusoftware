@@ -1,14 +1,7 @@
 <div align="center">
 
   <!-- ========================================================================= -->
-  <!-- ⚡ CYBERPUNK HEADER (CAPSULE RENDER) -->
-  <!-- ========================================================================= -->
-  <a href="https://github.com/priyanshusoftware">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030B17,50:00F0FF,100:7C3AED&height=220&section=header&text=PRIYANSHU%20//%20SYSTEM_CORE&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20ROOT%20ACCESS%20GRANTED%20//%20FULL-STACK%20DEVELOPER%20%E2%9A%A1&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Cyberpunk Header"/>
-  </a>
-
-  <!-- ========================================================================= -->
-  <!-- 💻 ANIMATED CYBER HUD DASHBOARD BANNER -->
+  <!-- 💻 ANIMATED CYBER HUD DASHBOARD BANNER (TOP HERO) -->
   <!-- ========================================================================= -->
   <p align="center">
     <img src="./assets/cyber_banner.gif" alt="Priyanshu Cyber HUD Live Dashboard" width="100%"/>
@@ -208,7 +201,5 @@
   <br/>
   <code>&copy; 2026 Priyanshu (@priyanshusoftware) • Keep Building. Keep Hacking.</code>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00F0FF,100:030B17&height=120&section=footer" width="100%" alt="Cyberpunk Footer"/>
 
 </div>
